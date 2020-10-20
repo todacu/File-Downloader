@@ -4,5 +4,4 @@
  __Uses:__
   - CURL Library _https://github.com/curl/curl_
  
-  </br> </br>
   *No Longer Updated*
